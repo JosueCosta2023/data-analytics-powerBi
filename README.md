@@ -51,10 +51,10 @@ O dashboard permite uma visão clara sobre saldos, inadimplência, distribuiçã
 ## 🖼️ Exemplos do Dashboard
 
 ### Visão Geral
-![Dashboard Visão Geral](https://link-da-imagem-1.png)
+![Dashboard Visão Geral](um.png)
 
 ### Análise Detalhada
-![Dashboard Análise Detalhada](https://link-da-imagem-2.png)
+![Dashboard Análise Detalhada](dois.png)
 
 > ℹ️ *As imagens acima representam telas do dashboard final desenvolvido no Power BI.*
 
